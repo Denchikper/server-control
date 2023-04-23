@@ -1,2 +1,2 @@
-# server-control
-Server management software
+<h1>Прогамма для управления сервером</h1>
+<h2>Возможности</h2>
